@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SKT9cWat0n/ZyGJV7ix+9D8InIUWi5Snyt3cQNoqerH1OGzJeWqMsNJgxt98uowm4vpgvRULtqUcCuwM8uT4GA==",
+  "dgSpecHash": "DT2tfFZj6oDcTGlawRa9k0FL811hXVJPU18QctFj3rwnvwMP4xIDrUEjkrmey6WOnC4WtWP81E1Rq3mJqF1iMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Laba3-4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\csvhelper\\31.0.2\\csvhelper.31.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

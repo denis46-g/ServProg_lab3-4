@@ -18,20 +18,48 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Acer\Desktop\magistry 1 course\2 semester\ServerProgramming\Practice\Laba3-4
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/about-us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWJvdXQtdXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/features.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZmVhdHVyZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/portfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccG9ydGZvbGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/pricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJpY2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2VydmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/testimonials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVzdGltb25pYWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Acer/Desktop/magistry 1 course/2 semester/ServerProgramming/Practice/Laba3-4/Pages/_ViewImports.cshtml]

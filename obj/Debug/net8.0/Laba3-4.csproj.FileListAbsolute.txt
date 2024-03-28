@@ -28,3 +28,7 @@ C:\Users\Acer\Desktop\magistry 1 course\2 semester\ServerProgramming\Practice\La
 C:\Users\Acer\Desktop\magistry 1 course\2 semester\ServerProgramming\Practice\Laba3-4\obj\Debug\net8.0\Laba3-4.pdb
 C:\Users\Acer\Desktop\magistry 1 course\2 semester\ServerProgramming\Practice\Laba3-4\obj\Debug\net8.0\Laba3-4.genruntimeconfig.cache
 C:\Users\Acer\Desktop\magistry 1 course\2 semester\ServerProgramming\Practice\Laba3-4\obj\Debug\net8.0\ref\Laba3-4.dll
+C:\Users\Acer\Desktop\magistry 1 course\2 semester\ServerProgramming\Practice\Laba3-4\obj\Debug\net8.0\Laba3-4.sourcelink.json
+C:\Users\Acer\Desktop\magistry 1 course\2 semester\ServerProgramming\Practice\Laba3-4\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Acer\Desktop\magistry 1 course\2 semester\ServerProgramming\Practice\Laba3-4\obj\Debug\net8.0\Laba3-4.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\magistry 1 course\2 semester\ServerProgramming\Practice\Laba3-4\obj\Debug\net8.0\Laba3-4.csproj.Up2Date
