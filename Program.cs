@@ -1,7 +1,13 @@
+using Laba3_4.models;
+using Laba3_4.data;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddSingleton(new JsonContext());
 
 var app = builder.Build();
 
