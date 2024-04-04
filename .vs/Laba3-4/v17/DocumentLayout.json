@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\models\\testimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:models\\testimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\testimonials.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\testimonials.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\services.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\services.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\about-us.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\about-us.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\features.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\features.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\testimonials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\testimonials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\data\\jsoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:data\\jsoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\contact.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:contact.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\portfolio.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\portfolio.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\pricing.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\pricing.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\about-us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\about-us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|c:\\users\\acer\\desktop\\magistry 1 course\\2 semester\\serverprogramming\\practice\\laba3-4\\pages\\pricing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F74A95F5-7F3C-4C4C-BE4C-9083667797B9}|Laba3-4.csproj|solutionrelative:pages\\pricing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\custom.js",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "wwwroot\\js\\custom.js",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAmwJMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-04T10:17:33.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AQIAAPcDAAAAAAAAAAAAAAoEAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T09:46:57.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "wwwroot\\css\\custom.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T09:16:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAADsBAAAAAAAAAAAAAEsBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T08:13:08.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "about-us.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\about-us.cshtml",
+              "RelativeDocumentMoniker": "Pages\\about-us.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\about-us.cshtml",
+              "RelativeToolTip": "Pages\\about-us.cshtml",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAF0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T08:11:27.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "features.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\features.cshtml",
+              "RelativeDocumentMoniker": "Pages\\features.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\features.cshtml",
+              "RelativeToolTip": "Pages\\features.cshtml",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAkwKUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T08:10:58.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "pricing.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\pricing.cshtml",
+              "RelativeDocumentMoniker": "Pages\\pricing.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\pricing.cshtml",
+              "RelativeToolTip": "Pages\\pricing.cshtml",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAIcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T08:09:51.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "services.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\services.cshtml",
+              "RelativeDocumentMoniker": "Pages\\services.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\services.cshtml",
+              "RelativeToolTip": "Pages\\services.cshtml",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T08:08:00.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "about-us.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\about-us.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\about-us.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\about-us.cshtml.cs",
+              "RelativeToolTip": "Pages\\about-us.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:01:39.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "contact.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\contact.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\contact.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\contact.cshtml.cs",
+              "RelativeToolTip": "Pages\\contact.cshtml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:01:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:01:04.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "features.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\features.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\features.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\features.cshtml.cs",
+              "RelativeToolTip": "Pages\\features.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:00:53.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "portfolio.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\portfolio.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\portfolio.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\portfolio.cshtml.cs",
+              "RelativeToolTip": "Pages\\portfolio.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:00:41.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "pricing.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\pricing.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\pricing.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\pricing.cshtml.cs",
+              "RelativeToolTip": "Pages\\pricing.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:00:31.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "services.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\services.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\services.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\services.cshtml.cs",
+              "RelativeToolTip": "Pages\\services.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:00:21.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testimonials.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\testimonials.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\testimonials.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\testimonials.cshtml.cs",
+              "RelativeToolTip": "Pages\\testimonials.cshtml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wCsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:36:15.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "portfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\portfolio.cshtml",
+              "RelativeDocumentMoniker": "Pages\\portfolio.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\portfolio.cshtml",
+              "RelativeToolTip": "Pages\\portfolio.cshtml",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAkwLcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T07:32:31.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "testimonials.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\testimonials.cshtml",
+              "RelativeDocumentMoniker": "Pages\\testimonials.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Pages\\testimonials.cshtml",
+              "RelativeToolTip": "Pages\\testimonials.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T07:30:12.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\data\\DbInitializer.cs",
+              "RelativeToolTip": "data\\DbInitializer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:55:26.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:20:42.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\data\\MyDbContext.cs",
+              "RelativeToolTip": "data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:14:11.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T16:58:12.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestimonialService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\models\\TestimonialService.cs",
+              "RelativeDocumentMoniker": "models\\TestimonialService.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\models\\TestimonialService.cs",
+              "RelativeToolTip": "models\\TestimonialService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:10:20.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JsonContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\data\\JsonContext.cs",
+              "RelativeDocumentMoniker": "data\\JsonContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\data\\JsonContext.cs",
+              "RelativeToolTip": "data\\JsonContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:09:04.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "contact.csv",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\contact.csv",
+              "RelativeDocumentMoniker": "contact.csv",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\magistry 1 course\\2 semester\\ServerProgramming\\Practice\\Laba3-4\\contact.csv",
+              "RelativeToolTip": "contact.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-04-01T10:45:46.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

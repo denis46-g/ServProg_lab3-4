@@ -12,17 +12,24 @@ namespace Laba3_4.Pages
         //внедряем сервис
         private readonly JsonContext JsonC;
 
+        //внедряем базу данных
+        private readonly MyDbContext dbCont;
+
+        public List<TestimonialService> testimonials { get; set; }
+
         public List<PortfolioService> portfolios { get; set; }
 
-        public PortfolioModel(ILogger<PortfolioModel> logger, JsonContext jsContext)
+        public PortfolioModel(ILogger<PortfolioModel> logger, JsonContext jsContext, MyDbContext dbContext)
         {
             _logger = logger;
             JsonC = jsContext;
+            dbCont = dbContext;
         }
 
         public void OnGet()
         {
             portfolios = JsonC.portfolios;
+            testimonials = dbCont.Testimonials.ToList();
         }
     }
 }

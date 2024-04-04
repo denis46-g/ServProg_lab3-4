@@ -1,5 +1,7 @@
+using Laba3_4.data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Laba3_4.models;
 
 namespace Laba3_4.Pages
 {
@@ -7,14 +9,20 @@ namespace Laba3_4.Pages
     {
         private readonly ILogger<IndexModel> _logger;
 
-        public IndexModel(ILogger<IndexModel> logger)
+        //внедряем базу данных
+        private readonly MyDbContext dbCont;
+
+        public List<TestimonialService> testimonials { get; set; }
+
+        public IndexModel(ILogger<IndexModel> logger, MyDbContext dbContext)
         {
             _logger = logger;
+            dbCont = dbContext;
         }
 
         public void OnGet()
         {
-
+            testimonials = dbCont.Testimonials.ToList();
         }
     }
 }

@@ -135,6 +135,38 @@
     });
 
     /* ==============================================
+     TESTIMONIAL -->
+     =============================================== */
+    jQuery(document).ready(function () {
+        $('#testimonialform').submit(function () {
+            var action = $(this).attr('action');
+            $("#message").slideUp(750, function () {
+                $('#message').hide();
+                $('#submit')
+                    .after('<img src="images/ajax-loader.gif" class="loader" />')
+                    .attr('disabled', 'disabled');
+                $.post(action, {
+                    name: $('#name').val(),
+                    occupation: $('#occupation').val(),
+                    title: $('#title').val(),
+                    description: $('#description').val()
+                },
+                    function (data) {
+                        document.getElementById('message').innerHTML = data;
+                        $('#message').slideDown('slow');
+                        $('#testimonialform img.loader').fadeOut('slow', function () {
+                            $(this).remove()
+                        });
+                        $('#submit').removeAttr('disabled');
+                        if (data.match('success') != null) $('#testimonialform').slideUp('slow');
+                    }
+                );
+            });
+            return false;
+        });
+    });
+
+    /* ==============================================
      CODE WRAPPER -->
      =============================================== */
 
